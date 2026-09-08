@@ -1,0 +1,10 @@
+{
+  "name": "Remix Academia Study Planner",
+  "description": "An interactive self-study planner for Indian CSE college students featuring 10-CGPA tracking, note-based quizzes, focus timer with lofi/Spotify/YouTube study music, upcoming day to-dos, and 1-week exam reminders.",
+  "requestFramePermissions": [
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
