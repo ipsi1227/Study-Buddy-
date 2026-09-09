@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+📚 Study Buddy
 
-# Run and deploy your AI Studio app
+A smart study planner designed to help students plan, organize, and track their studies.
 
-This contains everything you need to run your app locally.
+Live Demo
+👉 [Open Study Buddy]: (https://study-buddy-n3oe.onrender.com/)
 
-View your app in AI Studio: https://ai.studio/apps/4c5590cb-f6dc-4bee-bdf5-ac8606bd05f2
+✨ Features
 
-## Run Locally
+- 📅 Study planning
+- ✅ Task management
+- 🤖 AI-powered notes
+- 📊 Progress tracking
+- ⏰ Study reminders
 
-**Prerequisites:**  Node.js
+🛠️ Tech Stack
 
+- React
+- TypeScript
+- Vite
+- Express.js
+- Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Run Locally
+
+### Install dependencies
+
+```bash
+npm install
